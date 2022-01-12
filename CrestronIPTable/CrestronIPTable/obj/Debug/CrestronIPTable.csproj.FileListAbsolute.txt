@@ -1,0 +1,11 @@
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\CrestronIPTable.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\CrestronIPTable.pdb
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\SimplSharpNewtonsoft.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\SimplSharpReflectionInterface.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\SimplSharpSQLHelperInterface.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\bin\Debug\Newtonsoft.Json.Compact.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\obj\Debug\CrestronIPTable.dll
+C:\Users\andy\Documents\GitHub\CrestronIPTable\CrestronIPTable\CrestronIPTable\obj\Debug\CrestronIPTable.pdb
